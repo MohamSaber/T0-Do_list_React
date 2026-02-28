@@ -1,71 +1,11 @@
+# Sample Snack app
 
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-# 📌 To-Do List App – React Native
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-## 👤 Student Information
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-* **Name:** Mohamed Saber Labib
-* **Assignment:** Assignment 01
-* **University:** Helwan University
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
----
-
-## 📱 Project Description
-
-A simple To-Do List mobile application built using **React Native (Expo)**.
-
-The app allows users to:
-
-* Add new goals
-* Edit existing goals
-* Delete goals
-* Scroll through the list of tasks
-
----
-
-## 🧠 Logic Requirements Implemented
-
-* `useState` for:
-
-  * Managing input text
-  * Managing goals list
-* Function to handle:
-
-  * Add / Update goals
-  * Delete goals
-* `FlatList` for rendering and scrolling items
-
----
-
-## 🎨 Design Details
-
-### Color Palette
-
-* Primary: `#6A1B9A`
-* Background: `#F5F5F5`
-* Edit Button: `#3949AB`
-* Delete Button: `#D32F2F`
-* Text: White
-
-
-
-## 🎥 Demo Video
-
-[Watch Demo Video](https://drive.google.com/file/d/1Ct3KQlv9OOQSA9YRdwdfPUj-Bcxw56Rd/view?usp=sharing)
-
-
-## 🛠 Technologies Used
-
-* React Native
-* Expo
-* JavaScript
-
----
-
-## 📂 How to Run
-
-1. Open Expo Snack link.
-2. Scan QR code using Expo Go app.
-3. Run the application on your device.
-
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
