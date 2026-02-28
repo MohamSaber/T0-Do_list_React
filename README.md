@@ -1,45 +1,71 @@
-📌 To-Do List App – React Native
-👤 Student Information
 
-Name: Mohamed (اكتب اسمك الكامل)
 
-Course: (اسم المادة)
+# 📌 To-Do List App – React Native
 
-Assignment: Assignment 01
+## 👤 Student Information
 
-University: Helwan University
+* **Name:** Mohamed Saber Labib
+* **Assignment:** Assignment 01
+* **University:** Helwan University
 
-📱 Project Description
+---
 
-A simple To-Do List mobile application built using React Native (Expo).
+## 📱 Project Description
+
+A simple To-Do List mobile application built using **React Native (Expo)**.
 
 The app allows users to:
 
-Add new goals
+* Add new goals
+* Edit existing goals
+* Delete goals
+* Scroll through the list of tasks
 
-Edit existing goals
+---
 
-Delete goals
+## 🧠 Logic Requirements Implemented
 
-Scroll through the list of tasks
+* `useState` for:
 
-🧠 Logic Requirements Implemented
+  * Managing input text
+  * Managing goals list
+* Function to handle:
 
-useState for:
+  * Add / Update goals
+  * Delete goals
+* `FlatList` for rendering and scrolling items
 
-Managing input text
+---
 
-Managing goals list
+## 🎨 Design Details
 
-Function to handle:
+### Color Palette
 
-Add / Update goals
+* Primary: `#6A1B9A`
+* Background: `#F5F5F5`
+* Edit Button: `#3949AB`
+* Delete Button: `#D32F2F`
+* Text: White
 
-Delete goals
-
-FlatList for rendering and scrolling item
 
 
 ## 🎥 Demo Video
 
 [Watch Demo Video](https://drive.google.com/file/d/1Ct3KQlv9OOQSA9YRdwdfPUj-Bcxw56Rd/view?usp=sharing)
+
+
+## 🛠 Technologies Used
+
+* React Native
+* Expo
+* JavaScript
+
+---
+
+## 📂 How to Run
+
+1. Open Expo Snack link.
+2. Scan QR code using Expo Go app.
+3. Run the application on your device.
+
+
